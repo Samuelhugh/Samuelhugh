@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A proactive full stack developer</h3>
-<img align="right" alt="codingImg" width="275" src="https://media.giphy.com/media/npIVZg7MYoEUg/giphy.gif">
 
 - 🌱 I’m currently learning **Python, Java, and MERN**
 
