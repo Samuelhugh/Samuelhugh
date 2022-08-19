@@ -1,4 +1,3 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--HtjaCgWw--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://cdn.dribbble.com/users/1017646/screenshots/11349478/media/5a5ddd7635edcfc7c914dfe95caa8740.gif)
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A proactive full stack developer</h3>
 <img align="right" alt="codingImg" width="275" src="https://media.giphy.com/media/npIVZg7MYoEUg/giphy.gif">
@@ -32,6 +31,6 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
 
-<p>&nbsp;<img align="left" margin-right="10px" src="https://github-readme-stats.vercel.app/api?username=samuelhugh&show_icons=true&locale=en" alt="samuelhugh" /></p>
+<p>&nbsp;<img align="left" margin-right="10px" src="https://github-readme-stats.vercel.app/api?username=samuelhugh&show_icons=true&locale=en&theme=dark" alt="samuelhugh" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelhugh&show_icons=true&locale=en&layout=compact" alt="samuelhugh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelhugh&show_icons=true&locale=en&layout=compact&theme=dark" alt="samuelhugh" /></p>
