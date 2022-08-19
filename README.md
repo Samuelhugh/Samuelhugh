@@ -1,3 +1,4 @@
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--HtjaCgWw--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://cdn.dribbble.com/users/1017646/screenshots/11349478/media/5a5ddd7635edcfc7c914dfe95caa8740.gif)
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A proactive full stack developer</h3>
 <img align="right" alt="codingImg" width="275" src="https://media.giphy.com/media/npIVZg7MYoEUg/giphy.gif">
