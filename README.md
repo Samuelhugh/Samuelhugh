@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A proactive full stack software engineer</h3>
+<h3 align="center">A proactive full stack software developer</h3>
 
 - 🌱 I’m currently learning **Python, Java, and MERN**
 
