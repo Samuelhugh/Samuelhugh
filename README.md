@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Samuel Hughes
+### Hi 👋, I'm Samuel Hughes
 #### I am a rising Full Stack Engineer
 
 - 🌱 I’m currently learning **Python, Java, and MERN**
