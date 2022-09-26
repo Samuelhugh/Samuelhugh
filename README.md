@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A proactive full stack software developer</h3>
+### Hi there 👋, I'm Samuel Hughes
+#### I am a rising Full Stack Engineer
 
 - 🌱 I’m currently learning **Python, Java, and MERN**
 
