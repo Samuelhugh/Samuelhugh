@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/samuelhugh-full-stack-developer)**
 
-- ⚡ Fun fact **I can do backflips!**
+- ⚡ Fun fact **I can do sing and do backflips!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
