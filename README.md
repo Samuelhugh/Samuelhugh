@@ -1,13 +1,13 @@
 ### Hi 👋, I'm Samuel Hughes
-#### I am a rising Full Stack Software Engineer
+#### I am a Rising Full Stack Software Engineer
 
 - 🌱 I’m currently learning **Python, Java, and MERN**
 
-- 💬 Ask me about **anything!**
+- 💬 Ask me about **Anything!**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/samuelhugh-full-stack-developer)**
 
-- ⚡ Fun fact **I can do sing and do backflips!**
+- ⚡ Fun fact **I can do Sing and do Backflips!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
