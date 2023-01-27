@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Samuel Hughes
 #### I am a Rising Full-Stack Software Engineer
 
-- 🌱 I’m currently learning: **Python, Java, MERN, Data Structures, and Algorithms**
+- 🌱 I’m currently learning: **HTML5, CSS3, Python, Java, M.E.R.N Stack, Data Structures, and Algorithms**
 
 - 💬 Ask me about **Anything!**
 
