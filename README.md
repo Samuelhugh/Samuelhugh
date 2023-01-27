@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Anything!**
 
-- 📫 How to reach me **[Digital Portfolio](http://www.Samuelhugh.github.io/Portfolio)** | **[LinkedIn](https://www.linkedin.com/in/samuelhugh-full-stack-developer)**
+- 📫 How to reach me **[Digital Portfolio](http://www.samuelhugh.github.io/Portfolio)** | **[LinkedIn](https://www.linkedin.com/in/samuelhugh-full-stack-developer)**
 
 - ⚡ Fun fact **I can Sing!**
 
